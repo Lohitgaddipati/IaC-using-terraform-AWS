@@ -54,6 +54,10 @@ Included resources are:
 
 Over the project, this infrastructure was improved upon by using different modules and variables.
 
+In the third-party calling section, I have also demonstrated how to use third-party apps like Consul to include in AWS. 
+
+Finally, I have also used variables to make the main.tf file as easy and simple as possible in web-app-variables. Similarly, in using-modules, I have demonstrated how to use modules for easy collaboration between different teams. 
+
 
 
 
